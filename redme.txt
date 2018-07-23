@@ -18,3 +18,5 @@
 
 林茂是是个喳喳
 >>>>>>> dev
+
+Creating a new branch is quick AND simple.
