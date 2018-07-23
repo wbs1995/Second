@@ -19,4 +19,8 @@
 林茂是是个喳喳
 >>>>>>> dev
 
+<<<<<<< HEAD
 Creating a new
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
